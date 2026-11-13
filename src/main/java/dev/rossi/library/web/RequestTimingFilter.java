@@ -2,7 +2,7 @@ package dev.rossi.library.web;
 
 import java.io.IOException;
 import jakarta.servlet.FilterChain;
-import javax.servlet.ServletException;
+import jakarta.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import org.slf4j.Logger;
