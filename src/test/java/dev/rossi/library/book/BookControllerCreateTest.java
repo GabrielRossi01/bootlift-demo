@@ -18,7 +18,7 @@ class BookControllerCreateTest {
     @Autowired
     private MockMvc mvc;
 
-    @MockBean
+    @MockitoBean
     private BookRepository books;
 
     @Test
